@@ -54,17 +54,17 @@ const intern5 = {
   gender: "F"
 }
 
-//function intern (id, name, email, gender){
-  //const intern = {
-  //id: id,
-  //name: name,
-  //email: email,
-  //gender: gender
-  //}
-//}
 
- //intern1 = intern (`1`, `mmelloy0@psu.edu`, `Mitzi`, `F`);
-//console.log (intern1);
+// const intern = {
+// id: id,
+// name: name,
+// email: email,
+// gender: gender
+// }
+
+
+// intern1 = intern (`1`, `mmelloy0@psu.edu`, `Mitzi`, `F`);
+// console.log (intern1);
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
